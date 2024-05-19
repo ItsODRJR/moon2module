@@ -6,6 +6,7 @@ hero:
   image:
     src: "/Moon2Module.png"
   name: "Moon2Module"
+  favicon: /favicon.ico
   tagline: Roblox Plugin that exports Moon Animator projects to a Module for easy play.
   actions:
     - theme: brand
