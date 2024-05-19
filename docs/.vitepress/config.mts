@@ -7,6 +7,7 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: 'favicon.ico' }],
   ],
+  base: '/moon2module/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
