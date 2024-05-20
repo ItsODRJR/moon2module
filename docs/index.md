@@ -14,10 +14,10 @@ hero:
       class: get-plugin-button
       
     - theme: alt
-      text: Devfourm Post
+      text: DevFourm Post
       link: https://devforum.roblox.com/t/moon2module-plugin-that-converts-your-moon-animator-projects-into-modulescripts/2975574
     - theme: alt
-      text: Youtube Tutorial
+      text: YouTube Tutorial
       link: https://youtu.be/UB-93iD-Xrk
 
 features:
