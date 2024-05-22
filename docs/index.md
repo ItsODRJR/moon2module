@@ -9,7 +9,7 @@ hero:
   tagline: Roblox Plugin that exports Moon Animator projects to a Module for easy play.
   actions:
     - theme: brand
-      text: Get Plugin - $9.99
+      text: Get Plugin - $4.99
       link: https://create.roblox.com/store/asset/17539091951/Moon2Module
       class: get-plugin-button
       
@@ -32,6 +32,6 @@ features:
     details: Moon2Module handles all the tedious effect handling done outside of Moon Animator.
   - icon: 💸
     title: One-Time Purchase
-    details: For the low price of $9.99 USD, this plugin and its future builds will be yours forever.
+    details: For the low price of $4.99 USD, this plugin and its future builds will be yours forever.
 ---
 
