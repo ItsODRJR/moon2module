@@ -14,7 +14,7 @@ hero:
       class: get-plugin-button
       
     - theme: alt
-      text: DevFourm Post
+      text: DevForum Post
       link: https://devforum.roblox.com/t/moon2module-plugin-that-converts-your-moon-animator-projects-into-modulescripts/2975574
     - theme: alt
       text: YouTube Tutorial
